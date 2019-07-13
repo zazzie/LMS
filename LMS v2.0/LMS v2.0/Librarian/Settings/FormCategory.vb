@@ -68,8 +68,9 @@
                 dgvCategory.Select()
                 displayCategory()
             Else
-                dgvCategory.Rows.Clear()
-                clearInputs()
+                Dim sqlInsert As String = "INSERT INTO `category`(`categoryId`, `categoryName`) VALUES (0,'UNKNOWN');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateCategory()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)

@@ -70,8 +70,9 @@
                 dgvAuthor.Select()
                 displayAuthor()
             Else
-                dgvAuthor.Rows.Clear()
-                clearInputs()
+                Dim sqlInsert As String = "INSERT INTO `author`(`authorId`, `authorLast`) VALUES (0,'UNKNOWN');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateAuthor()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)

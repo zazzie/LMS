@@ -42,8 +42,9 @@
                 dgvPublisher.Select()
                 displayPublisher()
             Else
-                dgvPublisher.Rows.Clear()
-                txtPublisher.Clear()
+                Dim sqlInsert As String = "INSERT INTO `publisher`(`publisherId`, `publisherName`) VALUES (0,'N/A');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generatePublisher()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)

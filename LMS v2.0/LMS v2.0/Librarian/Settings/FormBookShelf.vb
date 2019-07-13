@@ -79,10 +79,10 @@
                 dgvBookShelf.Select()
                 displayBookshelf()
             Else
-                dgvBookShelf.Rows.Clear()
-                txtShelf.Clear()
-                dgvBookShelf.Rows.Clear()
-                txtShelfSection.Clear()
+                Dim sqlInsert As String = "INSERT INTO `bookshelf`(`bookshelfId`, `bookshelfName`) VALUES (0,'N/A');" & _
+                    "INSERT INTO `bookshelfsection`(`bookShelfSectionId`, `bookShelfSectionName`, `bookShelfSectionBookShelfId`) VALUES (0,'N/A',0);"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateBookshelf()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)

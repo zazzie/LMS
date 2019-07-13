@@ -61,6 +61,10 @@
                 End While
                 cboPublisher.Refresh()
                 cboPublisher.SelectedIndex = 0
+            Else
+                Dim sqlInsert As String = "INSERT INTO `publisher`(`publisherId`, `publisherName`) VALUES (0,'N/A');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generatePublisher()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)
@@ -83,6 +87,10 @@
                 End While
                 cboCategory.Refresh()
                 cboCategory.SelectedIndex = 0
+            Else
+                Dim sqlInsert As String = "INSERT INTO `category`(`categoryId`, `categoryName`) VALUES (0,'UNKNOWN');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateCategory()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)
@@ -105,6 +113,10 @@
                 End While
                 cboAuthor.Refresh()
                 cboAuthor.SelectedIndex = 0
+            Else
+                Dim sqlInsert As String = "INSERT INTO `author`(`authorId`, `authorLast`) VALUES (0,'UNKNOWN');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateAuthor()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)

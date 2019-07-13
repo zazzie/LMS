@@ -41,8 +41,9 @@
                 dgvItemType.Select()
                 displayItemType()
             Else
-                dgvItemType.Rows.Clear()
-                txtItemType.Clear()
+                Dim sqlInsert As String = "INSERT INTO `itemtype`(`itemTypeId`, `itemTypeName`) VALUES (0,'UNDEFINED');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateItemType()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)

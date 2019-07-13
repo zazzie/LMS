@@ -64,8 +64,10 @@
             cboShelf.Refresh()
             cboShelf.SelectedIndex = 0
         Else
-
-            cboShelf.Items.Clear()
+            Dim sqlInsert As String = "INSERT INTO `bookshelf`(`bookshelfId`, `bookshelfName`) VALUES (0,'N/A');" & _
+                    "INSERT INTO `bookshelfsection`(`bookShelfSectionId`, `bookShelfSectionName`, `bookShelfSectionBookShelfId`) VALUES (0,'N/A',0);"
+            LibraryDatabase.execSQL(sqlInsert)
+            generateBookShelf()
         End If
     End Sub
 

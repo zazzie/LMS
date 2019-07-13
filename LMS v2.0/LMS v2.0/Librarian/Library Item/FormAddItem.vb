@@ -47,6 +47,10 @@
                 End While
                 cboItemType.Refresh()
                 cboItemType.SelectedIndex = 0
+            Else
+                Dim sqlInsert As String = "INSERT INTO `itemtype`(`itemTypeId`, `itemTypeName`) VALUES (0,'UNDEFINED');"
+                LibraryDatabase.execSQL(sqlInsert)
+                generateItemType()
             End If
         Catch ex As Exception
             MsgBox(ex.Message.ToString)
