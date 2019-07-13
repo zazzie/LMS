@@ -113,6 +113,12 @@
     <Compile Include="Classes\StudentRegistry.vb" />
     <Compile Include="Classes\StudentSection.vb" />
     <Compile Include="Classes\User.vb" />
+    <Compile Include="Librarian\Accounts\FormManageAccount.Designer.vb">
+      <DependentUpon>FormManageAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Accounts\FormManageAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Librarian\Borrower\FormAddBorrower.Designer.vb">
       <DependentUpon>FormAddBorrower.vb</DependentUpon>
     </Compile>

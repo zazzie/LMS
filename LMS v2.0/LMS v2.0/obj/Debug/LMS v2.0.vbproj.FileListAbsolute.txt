@@ -157,3 +157,7 @@ C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\
 C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormImportList.resources
 C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEmployeeRegistry.resources
 C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEmployeePosition.resources
+C:\Users\Toni Mae Fernandez\Desktop\LMS\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+C:\Users\Toni Mae Fernandez\Desktop\LMS\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\LMS\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\LMS\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.pdb
