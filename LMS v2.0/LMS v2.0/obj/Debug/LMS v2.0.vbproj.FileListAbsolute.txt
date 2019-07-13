@@ -1,0 +1,159 @@
+C:\Users\Toni Mae Fernandez\Documents\Visual Studio 2012\Projects\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.exe
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.pdb
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.xml
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MessagingToolkit.Barcode.dll
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MySql.Data.dll
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MySql.Data.Entity.dll
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MySql.Web.dll
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.vbprojResolveAssemblyReference.cache
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormDatabaseConfiguration.resources
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.Resources.resources
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.vbproj.GenerateResource.Cache
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.exe
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.xml
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.pdb
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormLogin.resources
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormMain.resources
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAdvancedSettings.resources
+D:\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormSettings.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.exe
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.xml
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.pdb
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.exe
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.pdb
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.xml
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MessagingToolkit.Barcode.dll
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MySql.Data.dll
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MySql.Data.Entity.dll
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MySql.Web.dll
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.vbprojResolveAssemblyReference.cache
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormAdvancedSettings.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormAuthor.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormCategory.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormPublisher.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormSettings.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormDatabaseConfiguration.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormLogin.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormMain.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.Resources.resources
+D:\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.vbproj.GenerateResource.Cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.pdb
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.pdb
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MySql.Data.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\bin\Debug\MySql.Web.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormManageItem.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormAdvancedSettings.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormAuthor.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormCategory.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormPublisher.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormSettings.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormDatabaseConfiguration.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormLogin.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormMain.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.Resources.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS v2.0.vbproj.GenerateResource.Cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormBookShelf.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 [current]\LMS v2.0\obj\Debug\LMS_v2._0.FormBookShelfSectionNew.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS v2.0.pdb
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\LMS v2.0.pdb
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\MySql.Data.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\bin\Debug\MySql.Web.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS v2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormManageItem.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormAdvancedSettings.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormAuthor.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormBookShelf.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormBookShelfSectionNew.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormCategory.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormPublisher.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormSettings.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormDatabaseConfiguration.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormLogin.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormMain.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.Resources.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS v2.0.vbproj.GenerateResource.Cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormEditBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormViewBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormUpdateBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormAddNewBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0 old version\LMS v2.0\obj\Debug\LMS_v2._0.FormEditNewBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.exe.config
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.pdb
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddNewBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEditBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEditNewBookCopy.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormManageItem.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormUpdateBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormViewBook.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAdvancedSettings.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAuthor.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormBookShelf.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormBookShelfSectionNew.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormCategory.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormPublisher.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormSettings.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormDatabaseConfiguration.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormLogin.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormMain.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.Resources.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS v2.0.vbproj.GenerateResource.Cache
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.exe
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.pdb
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\LMS v2.0.xml
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MySql.Data.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\bin\Debug\MySql.Web.dll
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddItem.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddItemQuantity.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEditItemQuantity.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormItemType.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormViewLibraryItem.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddNewItemUnit.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEditNewItemUnit.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormUpdateItem.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormSchoolYear.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormSemester.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.Form1StudentLevelSection.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormSectionArchive.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormSectionNew.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormCourse.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormDepartment.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormAddBorrower.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormManageBorrower.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormStudentRegistry.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormUpdateBorrower.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormViewBorrower.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormBarangayCity.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormNewBarangays.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormImportFill.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormImportList.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEmployeeRegistry.resources
+C:\Users\Toni Mae Fernandez\Desktop\SE 1\actual SE system\LMS v2.0\LMS v2.0\obj\Debug\LMS_v2._0.FormEmployeePosition.resources
